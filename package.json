@@ -1,0 +1,15 @@
+{
+  "name": "seedbed-pulsar",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pulsar-client": "github:freeart/pulsar-client-node#master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
