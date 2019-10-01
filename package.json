@@ -1,10 +1,10 @@
 {
   "name": "seedbed-pulsar",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "pulsar-client": "github:freeart/pulsar-client-node#master"
+    "pulsar-client": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
